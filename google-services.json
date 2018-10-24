@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289836716328",
+    "firebase_url": "https://getmeatproduction-2018.firebaseio.com",
+    "project_id": "getmeatproduction-2018",
+    "storage_bucket": "getmeatproduction-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289836716328:android:f27cfebf707f9a19",
+        "android_client_info": {
+          "package_name": "com.application.getmeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289836716328-po6d0v08tidq29i582legcpf2a9u7318.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.getmeat",
+            "certificate_hash": "39b5a48d5ba7bd982bb9d8d8e593d08f8daf7c65"
+          }
+        },
+        {
+          "client_id": "289836716328-fc1ramqj0mftldqqkiahn2p445smquri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVwO7Bu2l0ehbYFg8uQ0elshKro8ksTds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289836716328-fc1ramqj0mftldqqkiahn2p445smquri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

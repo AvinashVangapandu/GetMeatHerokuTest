@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/040bc84ae03ac8d65a709ca462a9faef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4edd9313cc4eee06af2b1b3de3a8dac1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4b717d1e4725da5cc21295ce1d0661e5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/2354453b3c89a7b02029cd4aef94f539/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1c25b8022bde49e13f944bdb9f854ab1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d379d3d33c3fa319e2549423342f530a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/341139fb7aea830b4c0cef8f3d2591cb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b0cb1445e2789600a05e32360f0b2087/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0c1ebd16645b545f60d02a271a0a36cc/AndroidManifest.xml:17:1-27:12
+MERGED from [:CordovaLib] /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f195facc4d6be072a28db7b353312bec/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c04440192c1558c8ee2a71743070d676/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/0283ff25d5cdd292e6190dc8a4cdef0f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/35decf82fc37159b8ad96e11874a2a30/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:98-124
+		INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:125-183
+	android:versionCode
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
+		INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:5:5-33:19
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/040bc84ae03ac8d65a709ca462a9faef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/040bc84ae03ac8d65a709ca462a9faef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4edd9313cc4eee06af2b1b3de3a8dac1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4edd9313cc4eee06af2b1b3de3a8dac1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4b717d1e4725da5cc21295ce1d0661e5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4b717d1e4725da5cc21295ce1d0661e5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/2354453b3c89a7b02029cd4aef94f539/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/2354453b3c89a7b02029cd4aef94f539/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1c25b8022bde49e13f944bdb9f854ab1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1c25b8022bde49e13f944bdb9f854ab1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d379d3d33c3fa319e2549423342f530a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d379d3d33c3fa319e2549423342f530a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/341139fb7aea830b4c0cef8f3d2591cb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/341139fb7aea830b4c0cef8f3d2591cb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b0cb1445e2789600a05e32360f0b2087/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b0cb1445e2789600a05e32360f0b2087/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0c1ebd16645b545f60d02a271a0a36cc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0c1ebd16645b545f60d02a271a0a36cc/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f195facc4d6be072a28db7b353312bec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f195facc4d6be072a28db7b353312bec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c04440192c1558c8ee2a71743070d676/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c04440192c1558c8ee2a71743070d676/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/0283ff25d5cdd292e6190dc8a4cdef0f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/0283ff25d5cdd292e6190dc8a4cdef0f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/35decf82fc37159b8ad96e11874a2a30/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/35decf82fc37159b8ad96e11874a2a30/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#io.ionic.starter.MainActivity
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:6:135-170
+	android:windowSoftInputMode
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:6:262-304
+	android:configChanges
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:6:199-261
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:6:171-198
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+service#de.appplant.cordova.plugin.background.ForegroundService
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:12:9-91
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:12:18-88
+meta-data#com.google.android.gms.version
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:13:9-122
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4b717d1e4725da5cc21295ce1d0661e5/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4b717d1e4725da5cc21295ce1d0661e5/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:13:66-119
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:13:20-65
+service#com.marianhello.bgloc.sync.SyncService
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:14:9-19:19
+	android:process
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:14:96-119
+	android:exported
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:14:18-41
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:14:42-95
+intent-filter#android.content.SyncAdapter
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:15:13-17:29
+action#android.content.SyncAdapter
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:16:17-70
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:16:25-67
+meta-data#android.content.SyncAdapter
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:18:13-105
+	android:resource
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:18:67-102
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:18:24-66
+service#com.marianhello.bgloc.sync.AuthenticatorService
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:20:9-25:19
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:20:18-80
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:21:13-23:29
+action#android.accounts.AccountAuthenticator
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:22:17-80
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:22:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:24:13-117
+	android:resource
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:24:77-114
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:24:24-76
+provider#com.marianhello.bgloc.sync.DummyContentProvider
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:26:9-181
+	android:authorities
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:26:19-66
+	android:syncable
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:26:155-178
+	android:exported
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:26:67-91
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:26:92-154
+service#com.marianhello.bgloc.LocationService
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:27:9-121
+	android:enabled
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:27:18-40
+	android:exported
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:27:41-65
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:27:66-118
+receiver#com.marianhello.bgloc.BootCompletedReceiver
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:28:19-41
+	android:exported
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:28:42-65
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:28:66-124
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:29:13-31:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:30:25-76
+uses-sdk
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:34:5-74
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/040bc84ae03ac8d65a709ca462a9faef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/040bc84ae03ac8d65a709ca462a9faef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4edd9313cc4eee06af2b1b3de3a8dac1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4edd9313cc4eee06af2b1b3de3a8dac1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4b717d1e4725da5cc21295ce1d0661e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4b717d1e4725da5cc21295ce1d0661e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/2354453b3c89a7b02029cd4aef94f539/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/2354453b3c89a7b02029cd4aef94f539/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1c25b8022bde49e13f944bdb9f854ab1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1c25b8022bde49e13f944bdb9f854ab1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d379d3d33c3fa319e2549423342f530a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d379d3d33c3fa319e2549423342f530a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/341139fb7aea830b4c0cef8f3d2591cb/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/341139fb7aea830b4c0cef8f3d2591cb/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b0cb1445e2789600a05e32360f0b2087/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b0cb1445e2789600a05e32360f0b2087/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0c1ebd16645b545f60d02a271a0a36cc/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0c1ebd16645b545f60d02a271a0a36cc/AndroidManifest.xml:21:5-23:58
+MERGED from [:CordovaLib] /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f195facc4d6be072a28db7b353312bec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f195facc4d6be072a28db7b353312bec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c04440192c1558c8ee2a71743070d676/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c04440192c1558c8ee2a71743070d676/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/0283ff25d5cdd292e6190dc8a4cdef0f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/0283ff25d5cdd292e6190dc8a4cdef0f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/35decf82fc37159b8ad96e11874a2a30/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/35decf82fc37159b8ad96e11874a2a30/AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/2354453b3c89a7b02029cd4aef94f539/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:34:42-71
+	android:minSdkVersion
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:34:15-41
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:35:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:36:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:37:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:38:5-66
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:38:19-63
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:39:5-80
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:39:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:40:5-71
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:40:22-68
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:41:5-77
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:41:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:42:5-78
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:42:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:43:5-81
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:43:22-78
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:44:5-94
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:44:22-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:45:5-79
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:45:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:46:5-89
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:46:22-86
+uses-permission#android.hardware.location
+ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:47:5-65
+	android:name
+		ADDED from /Users/avinash/Desktop/DeliveryOctober/FirebaseApp copy/platforms/android/app/src/main/AndroidManifest.xml:47:22-62
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinash/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ba681c533827ad251be56b5c78296cdd/AndroidManifest.xml:24:13-79
